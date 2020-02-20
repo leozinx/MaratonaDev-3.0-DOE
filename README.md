@@ -4,10 +4,10 @@ No dia 17 e 18 de Fevereiro de 2019 na MaratonaDev da Rocketseat, desenvolvemos 
 
 Usamos também técnologias e algumas ferramentas para iniciantes, como:
 
-HTML;
-
-CSS;
-
-JAVASCRIP;
-
-NODEMON;
+Node.js
+Javascript
+Html
+CSS
+Nodemon
+PostgreSQL
+Nunjucks
