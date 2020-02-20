@@ -6,8 +6,8 @@ Usamos também técnologias e algumas ferramentas para iniciantes, como:
 
 Node.js
 Javascript
-Html
-CSS
-Nodemon
-PostgreSQL
-Nunjucks
+Html</li>
+CSS</li>
+Nodemon</li>
+PostgreSQL</li>
+<li>Nunjucks</li>
