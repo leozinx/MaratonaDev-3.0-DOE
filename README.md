@@ -1,5 +1,5 @@
                                       MaratonaDev - 3.0
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/guilhermecapitao/doe-maratonadev/blob/master/src/public/logo.png"><img alt="MaratonaDev" src="https://github.com/guilhermecapitao/doe-maratonadev/raw/master/src/public/logo.png" width="200px" style="align-items:center;"></a>
+<div align="center"><img src="https://github.com/leozinx/MaratonaDev-3.0-DOE/blob/master/public/MwcdynX.png"></div>
 
 
 
